@@ -1,6 +1,6 @@
-# Java-Lab-001
+# English Vs. Computer Science
 
-* The source code file you will edit is in the src folder and contains a Java class file named HelloXwing.java
-* Modify the HelloXwing.java file to print out to the **console** the xwing() method.
-* Run your program, verify an ascii-art X-Wing prints to the console, and save your changes.
-* Commit your changes back to your GitHub account and follow the video on doing a Pull request to the instructor account.
+* A statement is something that is declared to the compiler, and a comment is a note left for a person looking at the code
+* A portable program is one that can be ported to run on different systems or architectures.
+* Compiling a program means feeding the high-level source code into a compiler to be translated into object code that's ready for execution.
+* An executable is a piece of object code that can be executed repeatedly without further translation.
