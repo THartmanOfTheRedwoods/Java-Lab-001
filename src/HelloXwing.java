@@ -1,3 +1,13 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Alexei Iachkov
+ *
+ * @since Version 1.0
+ * @date 1-14-23
+ *
+ */
+
 public class HelloXwing {
     /**
      * Returns a String containing a X-Wing ASCII-Art
@@ -28,6 +38,6 @@ public class HelloXwing {
     }
 
     public static void main(String[] args) {
-        // Comment
+        System.out.println(HelloXwing.xwing());
     }
 }
