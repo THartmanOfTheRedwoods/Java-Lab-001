@@ -15,4 +15,5 @@
 3. To translate a program in a high level language into a low level language, all at once, in preparation for later execution.
 
 
+
 4. A executable is an object code that is ready to run on hardware. It is used as a noun because it is a name ready to be executed in the code or program. 
