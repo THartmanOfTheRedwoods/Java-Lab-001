@@ -11,6 +11,6 @@
 2. What does it mean to say that a program is portable?
 * A program being portable means that it can run on different kinds of computers with few or no modifications at all. 
 3. In common English, what does the word compile mean?
-* In common English the word compile means to collect things into a volume or to collect things into a list
+* In common English the word compile means to collect things into a volume or to collect things into a list.
 4. What is an executable? Why is that word used as a noun?
 * An executable is an object code that has been translated and is ready to run on hardware, it is a noun because it is something which can be executed by the computer. 
