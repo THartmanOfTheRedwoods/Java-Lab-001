@@ -1,6 +1,6 @@
 /**
  *
- * @author Trevor Hartmon
+ * @author Trevor Hartman
  * @author John Matney
  *
  * @since Version 1.0
@@ -43,4 +43,4 @@ public class HelloXwing {
     }
 }
 
-// Hey Mr Hartmon
+// Hey Mr Hartman
