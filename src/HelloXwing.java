@@ -1,3 +1,9 @@
+/**
+ * @author  Trevor Hartman
+ * @author Joshua Green
+ *
+ */
+
 public class HelloXwing {
     /**
      * Returns a String containing a X-Wing ASCII-Art
@@ -28,6 +34,7 @@ public class HelloXwing {
     }
 
     public static void main(String[] args) {
-        // Comment
+      HelloXwing.xwing();
+      System.out.println(HelloXwing.xwing());
     }
 }
