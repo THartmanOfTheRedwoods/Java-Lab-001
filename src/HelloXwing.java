@@ -1,6 +1,6 @@
 public class HelloXwing {
     /**
-     * Returns a String containing a X-Wing ASCII-Art
+     * Returns a String containing an X-Wing ASCII-Art
      *
      * @return Ascii-Art String of an X-Wing
      */
@@ -29,5 +29,6 @@ public class HelloXwing {
 
     public static void main(String[] args) {
         // Comment
+        System.out.println(xwing());
     }
 }
