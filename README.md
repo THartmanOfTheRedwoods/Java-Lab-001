@@ -5,7 +5,7 @@
 * Run your program, verify an ascii-art X-Wing prints to the console, and save your changes.
 * Commit your changes back to your GitHub account and follow the video on doing a Pull request to the instructor account.
 
-# Q&A
+## Q&A
 * In computer jargon, what’s the difference between a statement and a comment?
 * Answer: a Statement is a part of the program while a comment is more a note for the programmers.
 * What does it mean to say that a program is portable?
