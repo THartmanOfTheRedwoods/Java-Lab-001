@@ -7,10 +7,10 @@
 
 # Q&A
 * In computer jargon, what’s the difference between a statement and a comment?
-* Answer: a Statement is a part of the program while a comment is more a note for the programmers.
+  Answer: a Statement is a part of the program while a comment is more a note for the programmers.
 * What does it mean to say that a program is portable?
-* Answer: The code is executable across multiple operating systems.
+  Answer: The code is executable across multiple operating systems.
 * In common English, what does the word compile mean?
-* Answer: to collect and/or assemble.
+  Answer: to collect and/or assemble.
 * What is an executable? Why is that word used as a noun?
-* Anawer: a code or program that is ready to run.
+  Anawer: a code or program that is ready to run.
